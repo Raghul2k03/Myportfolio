@@ -1,7 +1,7 @@
 
 # My Portfolio
 
-🌐 Live Demo: https://raghulppotfolio.netlify.app/
+🌐 Live Demo: https://raghul-portfoli.netlify.app/
 
 ## Technologies Used
 - HTML
